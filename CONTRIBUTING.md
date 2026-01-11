@@ -33,7 +33,7 @@ Have an idea for a new feature in a template?
 
 ## 📬 Questions?
 If you are unsure about whether a specific use case violates our "No Copying" policy, please reach out to us:
-* **Email:** info@alexgaming.is-a.dev
+* **Email:** [admin@alexgaming.is-a.dev](mailto:admin@alexgaming.is-a.dev)
 * **Discord:** [Join our Server](https://discord.com/invite/uYBkNMVYTR)
 
 **Thank you for respecting our work and contributing to the ecosystem!**
